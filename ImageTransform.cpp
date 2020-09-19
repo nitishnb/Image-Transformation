@@ -6,16 +6,6 @@
 #include "uiuc/HSLAPixel.h"
 #include "ImageTransform.h"
 
-/* ******************
-(Begin multi-line comment...)
-
-Write your name and email address in the comment space here:
-
-Name:
-Email:
-
-(...end multi-line comment.)
-******************** */
 
 using uiuc::PNG;
 using uiuc::HSLAPixel;
